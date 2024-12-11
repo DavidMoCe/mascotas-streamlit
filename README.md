@@ -2,4 +2,6 @@
 
 Aplicación hecha en Streamlit que carga un modelo previamente entrenado y clasifica mascotas en función del peso, la altura, el color de ojos y el largo del pelo.
 
+El enlace de la app en streamlit es https://mascotas.streamlit.app/
+
 <img src="img/animales.jpg" width=400px>
