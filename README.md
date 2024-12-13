@@ -1,5 +1,10 @@
 # **Classipet 🐾**
 
+
+<img src="img/animales.jpg" width=300px>
+
+
+
 ## 🌍 Choose Your Language / Elige tu idioma:
 - [English](#english-)
 - [Español](#español-)
@@ -71,15 +76,3 @@ La aplicación cuenta con una interfaz gráfica en Streamlit donde se le solicit
 - **Largo del pelo** (Largo, Medio, Corto)
 
 El modelo entrenado predice a qué tipo de mascota pertenece (Perro 🐕, Gato 🐈, Conejo 🐇) basándose en estos datos.
-
-
-
-# Clasificador de Mascotas
-
-Aplicación hecha en Streamlit que carga un modelo previamente entrenado y clasifica mascotas en función del peso, la altura, el color de ojos y el largo del pelo.
-
-El enlace de la app en streamlit es https://mascotas.streamlit.app/
-
-<img src="img/animales.jpg" width=400px>
-
-
